@@ -1,12 +1,12 @@
 {
   "variants": {
-    "facing=east,lit=false": { "model": "aier:block/ice_furnace" },
-    "facing=south,lit=false": { "model": "aier:block/ice_furnace" },
-    "facing=west,lit=false": { "model": "aier:block/ice_furnace" },
-    "facing=north,lit=false": { "model": "aier:block/ice_furnace" },
-    "facing=east,lit=true": { "model": "aier:block/ice_furnace_on" },
-    "facing=south,lit=true": { "model": "aier:block/ice_furnace_on" },
-    "facing=west,lit=true": { "model": "aier:block/ice_furnace_on" },
-    "facing=north,lit=true": { "model": "aier:block/ice_furnace_on" }
+    "facing=east,lit=false": { "model": "aier:block/ice_furnace_east" },
+    "facing=south,lit=false": { "model": "aier:block/ice_furnace_south" },
+    "facing=west,lit=false": { "model": "aier:block/ice_furnace_west" },
+    "facing=north,lit=false": { "model": "aier:block/ice_furnace_north" },
+    "facing=east,lit=true": { "model": "aier:block/ice_furnace_east_on" },
+    "facing=south,lit=true": { "model": "aier:block/ice_furnace_south_on" },
+    "facing=west,lit=true": { "model": "aier:block/ice_furnace_west_on" },
+    "facing=north,lit=true": { "model": "aier:block/ice_furnace_north_on" }
   }
 }
